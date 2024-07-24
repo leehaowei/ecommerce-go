@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+
+# IDE
+.vscode
+
+# local
+bin/
+temp/
+.local/
+docker-compose-local.yml
+
+# env
+.envrc
